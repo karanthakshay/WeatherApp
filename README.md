@@ -16,8 +16,13 @@ run the app
 
 -Further Improvments:
 Try to capture location (lat long) from the device and give weather details of live location
+
 Expandable cell with more details
+
 Change the background with some flashy image
+
 Darktheme based on time
+
 Different background for different weather type
+
 Animate the UI while scrolling the Table
